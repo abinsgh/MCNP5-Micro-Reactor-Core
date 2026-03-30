@@ -46,4 +46,4 @@ The simulation is configured to perform deep neutronic evaluations using 100,000
 
 ---
 
-> **Note:** The raw MCNP input deck is provided in this repository. To visualize the geometry, run the deck through the MCNP Visual Editor (VISED) or process the output tallies utilizing Python/MATLAB scripts.
+
